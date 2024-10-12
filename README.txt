@@ -1,9 +1,7 @@
 
-1. Author/email address
+1. Author
 
-	Nikhta Chamarti (nc20ce)
-	Sai Sowjanya Padamati (sp22bi)
-
+	saiteja nakkala
 2. How to compile the code
 
     platform: linux
